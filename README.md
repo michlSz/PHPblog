@@ -2,7 +2,7 @@
 
 PHP based simple blog application. 
 
-You can see the project on http://enemer.kylos.pl/signal2/
+You can see the project on http://enemer.kylos.pl/cms3/
 
 Basic features:
 - create account
