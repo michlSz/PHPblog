@@ -6,6 +6,7 @@ Basic features:
 - create account
 - login/logout
 - add posts
+- two post status: published and draft
 - edit posts
 - delete posts
 - approve, unapproved, delete comments
